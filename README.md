@@ -1,4 +1,4 @@
-# clock-widget
+# Clock (widget)
 This small widget is the learning project. 
 Where we can see a switching between current date and current time (in full and short format),
 and changing background random color. Changes are triggered by click or after 5 seconds standby.
